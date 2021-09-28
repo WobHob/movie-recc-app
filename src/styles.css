@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button-genre {
+  cursor: pointer;
+  background: #f3f4f6;
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
+
+.movie-listings img {
+  max-width: 200px;
+  max-height: 200px;
+  text-align: left;
+}
